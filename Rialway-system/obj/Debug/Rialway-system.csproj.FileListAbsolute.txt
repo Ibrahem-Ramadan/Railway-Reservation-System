@@ -1,0 +1,65 @@
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\bin\Debug\Rialway-system.exe.config
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\bin\Debug\Rialway-system.exe
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\bin\Debug\Rialway-system.pdb
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csprojResolveAssemblyReference.cache
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.Properties.Resources.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csproj.GenerateResource.Cache
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway-system.exe
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway-system.pdb
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.main.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.loading.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.search.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.delete.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.update.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.updatecastomer.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.updateteckit.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insert.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insertcustomer.resources
+C:\Users\AHMED USAMA\Desktop\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insertticket.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\bin\Debug\Rialway-system.exe.config
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway-system.exe
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway-system.pdb
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.delete.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insert.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insertcustomer.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insertticket.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.main.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.loading.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.Properties.Resources.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.search.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.update.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.updatecastomer.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.updateteckit.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csproj.GenerateResource.Cache
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\bin\Debug\Rialway-system.exe
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\bin\Debug\Rialway-system.pdb
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csprojResolveAssemblyReference.cache
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\bin\Debug\dje-NE\Rialway-system.resources.dll
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.main.dje-NE.resources
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\dje-NE\Rialway-system.resources.dll
+C:\Users\aesma\Downloads\Rialway-system\Rialway-system\obj\Debug\Rialway_system.feedback.resources
+I:\Rialway-system\Rialway-system\bin\Debug\Rialway-system.exe.config
+I:\Rialway-system\Rialway-system\obj\Debug\Rialway-system.exe
+I:\Rialway-system\Rialway-system\obj\Debug\Rialway-system.pdb
+I:\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csprojResolveAssemblyReference.cache
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csproj.AssemblyReference.cache
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csproj.SuggestedBindingRedirects.cache
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.delete.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.feedback.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insert.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insertcustomer.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.insertticket.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.main.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.loading.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.Properties.Resources.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.search.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.update.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.updatecastomer.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.updateteckit.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway_system.main.dje-NE.resources
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csproj.GenerateResource.cache
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway-system.csproj.CoreCompileInputs.cache
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway-system.exe
+C:\Users\workstation\Downloads\Rialway-system\Rialway-system\Rialway-system\obj\Debug\Rialway-system.pdb
